@@ -4,9 +4,10 @@
 
 - [npm Clone](#npm-Clone) this repo
 
-Run npm install
-- [npm test](#npm-test)
-
-Run tests with npm test -- you may have to press "a" to run all tests
-
+- .[Run npm install].(#npm-install)
+ 
  - [npm start](#npm-start)
+
+-  [npm test](#npm-test) to run tests with npm test -- you may have to press "a" to run all tests
+
+
