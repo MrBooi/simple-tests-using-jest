@@ -4,7 +4,7 @@
 
 - [npm Clone](#npm-Clone) this repo
 
-- .[Run npm install].(#npm-install)
+-  [npm install].(#npm-install)
  
  - [npm start](#npm-start)
 
